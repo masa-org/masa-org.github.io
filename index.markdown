@@ -4,3 +4,9 @@
 
 layout: home
 ---
+
+構築中
+
+```
+printf("Hello world\n");
+```
