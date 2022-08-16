@@ -7,5 +7,5 @@ layout: default
 
 
 ```
-printf("Hello world\n");
+printf("Hello world from Masa\n");
 ```
