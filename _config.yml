@@ -28,8 +28,7 @@ twitter_username: unagi_ga_suki
 github_username:  masatomo-ito2
 
 # Build settings
-#theme: minima
-theme: slate
+theme: minima
 plugins:
   - jekyll-feed
 
