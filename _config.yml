@@ -20,8 +20,7 @@
 
 title: Masa Ito
 email: itmstm@itmstm.com
-description: >- # this means to ignore newlines until "baseurl:"
-Having fun yet?
+description: "なんかいいことないかな？"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: unagi_ga_suki
