@@ -4,6 +4,21 @@ title:  "Media"
 categories: Media
 ---
 
+2024/10/15
+## [Networld X 2024] クラウドインフラを包括的に守るCNAPPソリューション導入のすすめ
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ftbjrnmotfw?si=MGVaBrHU9CdahMhl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+2024/09/12
+## [@IT Cloud Native Week 2024 Summer] クラウドインフラを包括的に守るCNAPPソリューション導入のすすめ
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qRBBLvJ5Muw?si=vxaRR4khTin1Q0Ut" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+2022/11/21
+## [CNDT 2022] SASTからIaCまで、クラウド時代のDevSecOpsはSnykにおまかせ！
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4P_dXA8Xk0?si=xgriK80XdaWGU8-G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 2022/08/25
 ## [HashiTalks] Terraform cloudへのSnyk integration
 
